@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "EEPROM", "EEPROM\EEPROM.avrgccproj", "{2AC3C9E5-F495-422D-A7D9-92C8A3430BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC3C9E5-F495-422D-A7D9-92C8A3430BA6}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2AC3C9E5-F495-422D-A7D9-92C8A3430BA6}.Debug|AVR.Build.0 = Debug|AVR
+		{2AC3C9E5-F495-422D-A7D9-92C8A3430BA6}.Release|AVR.ActiveCfg = Release|AVR
+		{2AC3C9E5-F495-422D-A7D9-92C8A3430BA6}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
